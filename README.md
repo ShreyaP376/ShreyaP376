@@ -36,10 +36,10 @@ I enjoy building reliable systems, improving performance, and writing production
 
 ---
 
-## 💼 Work Experience
+## 💼 Projects 
 
 ### 🔹 Workforce Task Orchestration System  
-**Enterprise Backend Application**
+**Enterprise FullStack Application**
 
 A scalable system designed to manage workforce tasks, assignments, and execution workflows across teams.
 
@@ -50,7 +50,7 @@ A scalable system designed to manage workforce tasks, assignments, and execution
 - Optimized **SQL queries** and handled transactional data
 - Collaborated with frontend teams for smooth API integration
 
-**Tech:** Java, Spring Boot, SQL, REST APIs
+**Tech:** Java, Spring Boot, SQL, REST APIs, Angular
 
 ---
 
@@ -69,34 +69,10 @@ A production-grade system handling leasing operations and business workflows.
 
 ---
 
-## 📌 Selected Projects
-
-### 🚀 TravelBot-AI
-AI-powered travel planning application generating personalized itineraries.  
-**Tech:** JavaScript, APIs, HTML, CSS
-
-### 🧩 Spring-Boot-Dev
-Spring Boot learning project covering REST APIs and backend fundamentals.  
-**Tech:** Java, Spring Boot
-
-### 😂 ChuckleChromer
-Chrome extension delivering random jokes for short productivity breaks.  
-**Tech:** JavaScript, HTML
-
-👉 *More projects available in pinned repositories*
-
----
-
-## 📈 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyaP376&show_icons=true&theme=default)
-
----
-
 ## 🎯 What I’m Currently Focused On
 - Advanced **Spring Boot & backend system design**
 - Writing **clean, testable, maintainable code**
-- Preparing for **Java / Backend interviews**
+- Upskilling in **Java / Backend technology**
 - Strengthening **DSA & problem-solving skills**
 
 ---
